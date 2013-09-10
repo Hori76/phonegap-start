@@ -4,15 +4,15 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        version   = "1.0.1">
 
     <name>Hello Ruben</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Eerste app van den Hori
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
+    <author href="http://culd.be" email="info@culd.be">
         PhoneGap Team
     </author>
 
